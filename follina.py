@@ -6,6 +6,7 @@ import http.server
 import socketserver
 import base64
 
+
 # Helper function to zip whole dir
 # https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory
 def zipdir(path, ziph):
